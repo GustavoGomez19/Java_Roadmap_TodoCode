@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ejercicio_Sueldos",
+            "request": "launch",
+            "mainClass": "Ejercicio_Sueldos",
+            "projectName": "Java_Roadmap_TodoCode_4837664e"
+        },
+        {
+            "type": "java",
+            "name": "Estructura_Switch",
+            "request": "launch",
+            "mainClass": "Estructura_Switch",
+            "projectName": "Java_Roadmap_TodoCode_4837664e"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
