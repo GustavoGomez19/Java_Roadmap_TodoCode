@@ -1,6 +1,6 @@
 public class CondicionalMultipli {
 
-    public static void main(String[] args) {
+    public static void main(String[] args){
         boolean prende = false;
         boolean conectado = false;
         boolean hayEnergia = false;
@@ -18,10 +18,9 @@ public class CondicionalMultipli {
                 } else {
                     System.out.println("Conectar y ver tele.");
                 }
-            } 
+            }
         }
         //System.out.println("Fin de ejecución");
-
     }
     
 }
