@@ -5,9 +5,9 @@
    * Tipos de datos
    * Condicionales
    * Estructuras repetitivas
-   * Vectores
+   * Véctores
    * Matrices
-   * Modelo de capas
+   * Módelo de capas
 # 2. Bases de datos
    * Concepto de BD
    * Que es DER?
